@@ -1,0 +1,34 @@
+_repo: A-gondolkodok-es-egyeb-elbeszelesek_72649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kaffka, Margit
+    aliases:
+    - Kaffková, Margit
+    - Kaffkova, Margit
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '52497'
+    url: http://www.gutenberg.org/2009/agents/52497
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Margit_Kaffka
+    - https://hu.wikipedia.org/wiki/Kaffka_Margit
+description: ''
+gutenberg_issued: '2024-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72649'
+language: hu
+pgterms:marc905: 20240106001109kaffka
+pgterms:marc906: '1906'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bAthenaeum, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A gondolkodók és egyéb elbeszélések
+url: http://www.gutenberg.org/ebooks/72649
